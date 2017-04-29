@@ -1,2 +1,2 @@
 # PruebaCursoGit
-Prueva de tag curso gt
+Prueba de tag curso git
